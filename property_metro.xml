@@ -13,10 +13,7 @@
             <region>Волгоградская область</region>
             <locality>Краснослободск</locality>
             <address>Чулкова д 30 </address>
-            <metro>Проспект Победы
-                <time-on-foot>10</time-on-foot>
-                <time-on-transport>5</time-on-transport>
-            </metro>
+            <metro>Проспект Победы</metro>
         </location>
         <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
