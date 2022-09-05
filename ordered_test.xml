@@ -4,7 +4,7 @@
     <link rel="self" href="http://www.example.com"/>
          <item>
         <id>0</id>
-        <title>ЖК Заречье</title>
+        <title>Заречье</title>
         <brand>РЦ ОКО</brand>
         <availability>for_sale</availability>
         <description>Уютный жилой комплекс в 10 минутах от центра города</description>
@@ -94,7 +94,7 @@
     </item>
 	  <item>
         <id>3</id>
-        <title>ЖК Изумрудный город</title>
+        <title>Изумрудный город</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
@@ -114,7 +114,7 @@
     </item>
 	  <item>
         <id>4</id>
-        <title>ЖК Изумрудный город</title>
+        <title>Алые паруса</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
@@ -134,7 +134,7 @@
     </item>
 	  <item>
         <id>5</id>
-        <title>ЖК Изумрудный город</title>
+        <title>Привет</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
@@ -154,7 +154,7 @@
     </item>
 	  <item>
         <id>6</id>
-        <title>ЖК Изумрудный город</title>
+        <title>Город</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
@@ -194,7 +194,7 @@
     </item>
 	  <item>
         <id>8</id>
-        <title>ЖК Изумрудный город</title>
+        <title>Облако</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
@@ -214,7 +214,7 @@
     </item>
 	  <item>
         <id>9</id>
-        <title>ЖК Изумрудный город</title>
+        <title>313</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
@@ -234,7 +234,7 @@
     </item>
 	  <item>
         <id>10</id>
-        <title>ЖК Изумрудный город12</title>
+        <title>Замкад</title>
         <brand>Унистрой</brand>
         <availability>for_sale</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
