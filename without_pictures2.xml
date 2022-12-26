@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+    <title>example.com Feed</title>
+    <link rel="self" href="http://www.example.com"/>
+         <item>
+        <id>0</id>
+        <title>Заречье</title>
+        <brand>РЦ ОКО</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 10 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Волгоградская область</region>
+            <locality>Краснослободск</locality>
+            <address>Чулкова д 30 </address> 
+        </location>
+        <image_link>https://image.shutterstock.com/image-1765482248.jpg</image_link>
+        <additional_image_link>http://example.com/image_link>             
+        <num_rooms>2</num_rooms>
+        <area_size>56</area_size>
+        <area_unit>sq_m</area_unit>
+	<num_beds>1</num_beds>
+	<num_baths>2</num_baths>
+	<floor>3</floor>
+	<floors_total>3</floors_total>
+	<custom_label_0>Летняя распродажа</custom_label_0>
+	<listing_type>for_sale_by_owner</listing_type>
+        <price>1517000 RUB</price>
+        <property_type>townhouse</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2077</year_built>
+    </item>
+         <item>
+        <id>12</id>
+        <title>Ёомарово</title>
+        <brand>СК Цефей</brand>
+        <availability>for_sale</availability>
+        <description>Жилой комплекс на отшибе, то что нужно для отдыха</description>
+        <location>
+            <country>Россия</country>
+            <region>Воронежская область</region>
+            <locality>Воронеж</locality>
+            <address>Бомбежная д 14</address> 
+        </location>
+        <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>4</num_rooms>
+        <area_size>666</area_size>
+        <area_unit>sq_m</area_unit>
+        <price>1200000 RUB</price>
+        <property_type>townhouse</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2038</year_built>	    
+    </item>
+         <item>
+        <id>1</id>
+        <title>Ёзумрудный город</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address> 
+        </location>
+        <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>2</id>
+        <title>ЖК Ёзумрудный город</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address> 
+        </location>
+        <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>3</id>
+        <title>Изумрудный город</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>
+        </location>
+        <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>4</id>
+        <title>Алые паруса</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>   
+        </location>
+        <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>5</id>
+        <title>Привет</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address> 
+        </location>
+        <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>6</id>
+        <title>Город</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>    
+        </location>
+        <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>7</id>
+        <title>ЖК Изумрудный город</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>   
+        </location>
+        <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>8</id>
+        <title>Облако</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address> 
+        </location>
+        <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>9</id>
+        <title>313</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>
+        </location>
+        <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+	  <item>
+        <id>10</id>
+        <title>Замкад</title>
+        <brand>Унистрой</brand>
+        <availability>for_sale</availability>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
+        <location>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <locality>Казань</locality>
+            <address>Рихарда Зорге 66Д </address>
+        </location>
+        <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
+        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
+        <num_rooms>2</num_rooms>       
+        <price>6000000 RUB</price>
+        <property_type>apartment</property_type>
+        <link>http://www.example.com/link_to_listing</link>
+        <year_built>2014</year_built>
+    </item>
+</channel>
