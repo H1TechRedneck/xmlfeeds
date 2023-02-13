@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listings>
+    <script/>
+    <title>My Hotel Feed</title>
+    <listing>
+        <hotel_id>1</hotel_id>
+        <name> best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotel</name>
+        <category>Хостел</category>
+        <description>A very nice hotel</description>
+        <brand>Premium_brand</brand>
+        <price>199.99 USD</price> 
+        <sale_price>100 USD</sale_price>
+        <min_price>50 USD</min_price>
+        <max_price>500 USD </max_price>
+        <image>
+            <url>https://www.onetwotrip.com/</url>
+        </image>
+        <url></url>
+        <location>
+            <address>Дубравная</address>
+            <locality>Москва</locality>
+            <region>Москва</region>
+            <country>Россия</country>
+            <metro> 
+               <name>Белорусская</name>
+            </metro>
+        </location>
+        <custom_label_0>Распродажа</custom_label_0>
+        <applink property="ios_url" content="example://electronic"/>
+        <applink property="ios_app_store_id" content="42"/>
+        <applink property="android_url" content="example://electronic"/>
+        <applink property="android_package" content="com.electronic"/>
+    </listing>
+    <listing>
+        <hotel_id>1</hotel_id>
+        <name>The best hotel</name>
+        <category>Кемпинг</category>
+        <description>A very nice hotel</description>
+        <brand>Premium_brand</brand>
+        <price>199.99 USD</price>        
+        <image>
+            <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
+        </image>
+        <url>https://www.onetwotrip.com/</url>
+        <location>
+            <address>Пролетарская д7</address>
+            <locality>Москва</locality>
+            <region>Москва</region>
+            <country>Россия</country>
+            <metro> 
+               <name>Динамо</name>
+            </metro>
+            <metro> 
+               <name>Сокол</name>
+            </metro>
+            <metro> 
+               <name>Аэропорт</name>
+            </metro>
+            <metro> 
+               <name>Белорусская</name>
+            </metro>
+        </location>      
+    </listing>
+    <listing>
+        <hotel_id>12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</hotel_id>
+        <name>The best hotel</name>
+        <category>Глэмпинг</category>
+        <description>A very nice hotel</description>
+        <brand>Premium_brand</brand>
+        <price>199.99ф</price>      
+        <image>
+            <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
+        </image>
+        <url>https://www.onetwotrip.com/</url>
+        <location>
+            <address>Пролетарская д7</address>
+            <locality>Москва</locality>
+            <region>Москва</region>
+            <country>Россия</country>
+            <metro> 
+               <name>Охотный ряд</name>
+            </metro>
+        </location>        
+    </listing>
+    <listing>
+        <hotel_id>4</hotel_id>
+        <name>The best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotel</name>
+        <category>Домик в деревне</category>
+        <description>A very nice hotel</description>
+        <brand>Premium_brand</brand>
+        <price>199.99 USD</price>       
+        <image>
+            <url>https://4.jpeg</url>
+        </image>
+        <url>https://www.onetwotrip.com/</url>
+        <location>
+            <address>Пролетарская д7</address>
+            <locality>Москва</locality>
+            <region>Москва</region>
+            <country>Россия</country>            
+        </location>        
+    </listing>
+    <listing>
+        <hotel_id>5</hotel_id>
+        <name>The best hotel</name>
+        <category>Отель</category>
+        <description>A very nice hotel</description>
+        <brand>Premium_brand</brand>
+        <price>199.99 USD</price>        
+        <image>
+            <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
+        </image>
+        <url>влвлвлв</url>
+        <location>
+            <address>Пролетарская д7</address>
+            <locality>Москва</locality>
+            <region>Москва</region>
+            <country>Россия</country>
+        </location>        
+    </listing>
+    <listing>
+        <hotel_id>6</hotel_id>
+        <name>The best hotel</name>
+        <category> </category>
+        <description>A very nice hotel</description>
+        <brand>Premium_brand</brand>
+        <price>199.99 USD</price>      
+        <image>
+            <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
+        </image>
+        <url>https://www.onetwotrip.com/</url>
+        <location>
+            <address>Пролетарская д7</address>
+            <locality>Москва</locality>
+            <region>Москва</region>
+            <country>Россия</country>
+        </location>      
+    </listing>
+</listings>
