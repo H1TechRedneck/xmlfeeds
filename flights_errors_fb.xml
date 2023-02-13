@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listings>
+    <title>My Flight Feed</title>
+    <link rel="self" href="http://www.example.com"/>
+    <listing>
+        <id>1</id>
+        <origin_airport>BOS</origin_airport>
+        <destination_airport>JFK</destination_airport> 
+        <origin_city>Boston</origin_city>
+        <destination_city>NEW YORK</destination_city> 
+        <url>https://ticket.pobeda.aero/websky/</url> 
+         <image>
+            <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
+            <tag>city</tag>
+        </image>  
+         <price>100.00 USD</price>
+         <sale_price>50 USD</sale_price>
+         <min_price>50 USD</min_price>
+        <max_price>500 USD</max_price>
+        <applink property="ios_url" content="example://travelapp" />
+        <applink property="ios_app_store_id" content="" />        
+        <applink property="android_url" content="example://travelapp" />
+        <applink property="android_package" content="" /> 
+        <custom_label_0>Летняя распродажа</custom_label_0>
+    </listing>
+    <listing>
+        <id>1</id>
+        <origin_airport>BOS</origin_airport>
+        <destination_airport>SFO</destination_airport>
+        <origin_city>Boston </origin_city>
+        <destination_city>San Francisco </destination_city>
+        <url>https://ticket.pobeda.aero/websky/</url>
+        <image>
+            <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
+            <tag>city</tag>
+        </image>       
+        <price>100.00 AMD</price>
+        <description>Best Flight</description>
+        <applink property="ios_url" content="example://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example://travelapp" />
+        <applink property="android_package" content="com.travelapp" /> 
+        <custom_label_1>Осенняя распродажа</custom_label_1>
+    </listing>
+     <listing>
+        <id>3</id>
+        <origin_airport>BOS</origin_airport>
+        <destination_airport>SFO</destination_airport>
+        <origin_city>BostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgddBostonfgdd </origin_city>
+        <destination_city>San Francisco </destination_city>
+         <url>https://ticket.pobeda.aero/websky/</url>
+        <image>
+            <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
+            <tag>city</tag>
+        </image>        
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+        <applink property="ios_url" content="example://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example://travelapp" />
+        <applink property="android_package" content="com.travelapp" /> 
+         <custom_label_2>Зимняя распродажа</custom_label_2>
+    </listing>
+     <listing>
+        <id>4</id>
+        <origin_airport>BOS</origin_airport>
+        <destination_airport>SFO</destination_airport>
+        <origin_city>Boston </origin_city>
+        <destination_city>San Francisco </destination_city>
+         <url>https://ticket.pobeda.aero/websky/</url>
+        <image>
+            <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
+            <tag>city</tag>
+        </image>        
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+        <applink property="ios_url" content="example://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example://travelapp" />
+        <applink property="android_package" content="com.travelapp" /> 
+         <custom_label_4>Весенняя распродажа</custom_label_4>
+    </listing>
+     <listing>
+        <id>5</id>
+        <origin_airport>BOS</origin_airport>
+        <destination_airport>SFO</destination_airport>
+        <origin_city>Boston </origin_city>
+        <destination_city>San Francisco </destination_city>
+         <url>https://ticket.pobeda.aero/websky/</url>
+        <image>
+            <url>https://github.com/voron-cage/feeds/ru-334.jpeg</url>
+            <tag>city</tag>
+        </image>        
+        <price>100asas</price>
+        <description>Best Flight</description>
+        <applink property="ios_url" content="example://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example://travelapp" />
+        <applink property="android_package" content="com.travelapp" /> 
+    </listing>
+     <listing>
+        <id>123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010123456789010</id>
+        <origin_airport>BOS</origin_airport>
+        <destination_airport>SFO</destination_airport>
+        <origin_city>Boston </origin_city>
+        <destination_city>San Francisco </destination_city>
+         <url>https://ticket.pobeda.aero/websky/</url>
+        <image>
+            <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
+            <tag>city</tag>
+        </image>        
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+        <applink property="ios_url" content="example://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example://travelapp" />
+        <applink property="android_package" content="com.travelapp" /> 
+    </listing>
+</listings>
